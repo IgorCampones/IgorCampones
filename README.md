@@ -1,6 +1,6 @@
 ### Olá me chamo Igor Camponês 👋
 
-  Sou uma pessoa que aprender rápido as coisas e desafios me movem.
+  Sou uma pessoa que aprende rápido as coisas e desafios me movem.
   
   Natural de Belo Horizonte, Minas Gerais.
 
