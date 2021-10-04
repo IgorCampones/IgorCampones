@@ -7,7 +7,7 @@
   ### Formação
   Atualmente faço Engenharia de Produção na PUC Minas (Formatura Dez/2021)
   
-  Estou em busca de aprender a programar, mais especificamente Back-End 💻
+  Aprendendo programação, mais especificamente Back-End 💻
   
   ### Linguagens (Em Aprendizado)
   
