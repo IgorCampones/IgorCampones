@@ -16,6 +16,7 @@
 <h3 align='center'> Redes Sociais </h3>
 <div align='center'>
 <a href="https://www.linkedin.com/in/igor-campon%C3%AAs-327437142/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/igorhic" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
   
   
