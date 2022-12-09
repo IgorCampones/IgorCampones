@@ -5,13 +5,13 @@
   Natural de Belo Horizonte, Minas Gerais.
 
   ### Formação
-  Atualmente faço Engenharia de Produção na PUC Minas (Formatura Dez/2021)
+  Engenheiro de produção na PUC MINAS
   
-  Aprendendo programação, mais especificamente Back-End 💻
+  Cursando Pós graduação em Ciência de dados e Big data na PUC MINAS
   
   ### Linguagens (Em Aprendizado)
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![SQL](https://skillicons.dev/icons?i=all) ![Python](https://skillicons.dev/icons?i=all)
   
 <h3 align='center'> Redes Sociais </h3>
 <div align='center'>
