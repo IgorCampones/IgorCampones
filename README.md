@@ -9,9 +9,13 @@
   
   Cursando Pós graduação em Ciência de dados e Big data na PUC MINAS
   
-  ### HardSkills
+  ### Hard Skills
   
-![SQL]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg)) ![Python]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)) ![VS Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,sqlite" />
+  </a>
+</p>
   
 <h3 align='center'> Redes Sociais </h3>
 <div align='center'>
@@ -22,8 +26,6 @@
   
 <!--
 **IgorCampones/IgorCampones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-AWS (https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg)
 
 Here are some ideas to get you started:
 
