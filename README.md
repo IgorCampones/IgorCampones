@@ -9,7 +9,7 @@
   
   Cursando Pós graduação em Ciência de dados e Big data na PUC MINAS
   
-  ### Hard Skills
+ ### Languages and tools 🛠
   
 <p align="center">
   <a href="https://skillicons.dev">
