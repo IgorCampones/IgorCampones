@@ -9,9 +9,9 @@
   
   Cursando Pós graduação em Ciência de dados e Big data na PUC MINAS
   
-  ### Linguagens (Em Aprendizado)
+  ### HardSkills
   
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![SQL](https://skillicons.dev/icons?i=all) ![Python](https://skillicons.dev/icons?i=all)
+![SQL]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg)) ![Python]([https://skillicons.dev/icons?i=all](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)) ![VS Code](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)
   
 <h3 align='center'> Redes Sociais </h3>
 <div align='center'>
@@ -22,6 +22,8 @@
   
 <!--
 **IgorCampones/IgorCampones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+AWS (https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg)
 
 Here are some ideas to get you started:
 
