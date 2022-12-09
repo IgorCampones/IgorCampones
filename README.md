@@ -2,7 +2,7 @@
 
   I'm good person, i like study tech, data analytics and like challenges.
   
-  I had a experience in data analytics, I was data analytics at Vale S.A for 2,5 years worked with Power BI and Excel, I was Operations Analytics at RAPPI used Power     BI and SQL, now I'm data analytics at Tora using Power BI and Excel.
+  I had an experience in data analytics, I was data analytics at Vale S.A for 2,5 years worked with Power BI and Excel, I was Operations Analytics at RAPPI used Power     BI and SQL, now I'm data analytics at Tora using Power BI and Excel.
   
   Natural de Belo Horizonte, Minas Gerais.
 
