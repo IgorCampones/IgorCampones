@@ -4,12 +4,10 @@
   
   I had an experience in data analytics, I was data analytics at Vale S.A for 2,5 years worked with Power BI and Excel, I was Operations Analytics at RAPPI used Power     BI and SQL, now I'm data analytics at Tora using Power BI and Excel.
   
-  Natural de Belo Horizonte, Minas Gerais.
-
-  ### Formação
-  Engenheiro de produção na PUC MINAS
+ ### Qualification
+  Production Engineer at PUC MINAS
   
-  Cursando Pós graduação em Ciência de dados e Big data na PUC MINAS
+  Postgraduate in Data Science and Big Data at PUC MINAS (Studying - End on September/2023)
   
  ### Languages and tools 🛠
   
