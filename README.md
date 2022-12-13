@@ -1,10 +1,10 @@
 <h2 align='center'>Hey! I'm Igor Camponês! 👋🏻</h2>
 
-  I'm good person, i like study tech, data analytics and like challenges.
+  I'm good person who likes to study tech, data analysis and to be challenged.
   
-  I had an experience in data analytics, I was data analytics at Vale S.A for 2,5 years worked with Power BI and Excel, I was Operations Analytics at RAPPI used Power     BI and SQL, now I'm data analytics at Tora using Power BI and Excel.
+  I have 3 years of experience in data analysis. My first experience was at VALE S.A i worked there for 2.5 years with Power BI and Excel, and I was also a data    analysis at RAPPI, also using Power BI and SQL. Now I work at TORA, with Power BI and Excel.
   
- ### Qualification
+ ### Qualifications
   Production Engineer at PUC MINAS
   
   Postgraduate in Data Science and Big Data at PUC MINAS (Studying - End on September/2023)
